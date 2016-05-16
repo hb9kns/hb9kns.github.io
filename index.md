@@ -24,4 +24,4 @@ _Please note: the logbook remains under copyright, i.e the CC license valid for 
 
 ---
 
-_(2015 HB9KNS)_
+_(2016 HB9KNS)_
