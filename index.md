@@ -9,10 +9,11 @@ You can also check out my [Github repositories]( https://github.com/hb9kns )!
 
 ## Ham radio logbook
 
-You can read my amateur radio logbook in [HTML]( hamlog.html ) or
-[Markdown/text]( hamlog.md ) format.
+_The logbook remains under copyright, i.e the CC license valid elsewhere does not apply here!_
 
-_Please note: the logbook remains under copyright, i.e the CC license valid for other files does not apply here!_
+You can read my amateur radio logbook in [HTML]( hamlog.html ) or [Markdown/text]( hamlog.md ) format.
+
+(The HTML at times may be out of date, as I cannot update it from all mobile devices. The Markdown version always will be up to date.)
 
 ---
 
