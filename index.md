@@ -12,7 +12,7 @@ _The logbook remains under copyright, i.e the CC license valid elsewhere does no
 
 You can read my amateur radio logbook in [HTML]( hamlog.html ) or [Markdown/text]( hamlog.md ) format.
 
-(The HTML at times may be out of date, as I cannot update it from all mobile devices. The Markdown version always will be up to date.)
+(The HTML may be out of date for up to a day, as I cannot generate it from all mobile devices. The Markdown version always will be up to date.)
 
 ---
 
