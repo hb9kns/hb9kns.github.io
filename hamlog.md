@@ -5,6 +5,10 @@ _(most recent data on top)_
 
 ## 2016
 
+### 2016-07-17 ik2/hb9kns/p
+
+- z1000 f7012 cF6FLF r519qsb s599qsb # francis nr cannes, 50w dipole
+
 ### 2016-03-26 ik2/hb9kns/p
 
 - z1230 f10134 cIK2RMZ r339 s479 # martin nr varese "fial?" nr lago orta, ts530s 75w dipol
