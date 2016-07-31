@@ -5,8 +5,9 @@ _(most recent data on top)_
 
 ## 2016
 
-### 2016-07-31 hb9kns/p
+### 2016-07-31 hb9kns/p qth muerren
 
+- z1330 f145500 cHB9SNU r59 s59 # peter in wengen // got fb rprt fr modulation, seems ok
 - z0940 f145100/700 cHB9CAC r37 s59 # koni nr schaffhausen via schilthorn // got bad rprt, perhaps bad tx part on my VX-8?
 
 ### 2016-07-17 ik2/hb9kns/p
