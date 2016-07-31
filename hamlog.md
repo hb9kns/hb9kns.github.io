@@ -5,6 +5,10 @@ _(most recent data on top)_
 
 ## 2016
 
+### 2016-07-31 hb9kns/p
+
+- z0940 f145100/700 cHB9CAC r37 s59 # koni nr schaffhausen via schilthorn // got bad rprt, perhaps bad tx part on my VX-8?
+
 ### 2016-07-17 ik2/hb9kns/p
 
 - z1000 f7012 cF6FLF r519qsb s599qsb # francis nr cannes, 50w dipole
