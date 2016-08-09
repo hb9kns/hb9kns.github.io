@@ -7,7 +7,7 @@ _(most recent data on top)_
 
 ### 2016-08-09 hb9kns
 
-- z2200 f145525 cHB9FRV r47 s59 # matthias in aarau // initial contact on repeater f145175/775 Laegern, then simplex qso
+- z2200 f145525 cHB9FRV r47 s59 # mathias in aarau // initial contact on repeater f145175/775 Laegern, then simplex qso
 
 ### 2016-07-31 hb9kns/p qth muerren
 
