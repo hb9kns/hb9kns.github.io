@@ -5,6 +5,10 @@ _(most recent data on top)_
 
 ## 2016
 
+### 2016-10-06 ik2/hb9kns/p
+
+- z1150 f14057 cG0KAL r315qsb s599qsb # clive on isle of axholme // strong qsb, lost contact
+
 ### 2016-08-09 hb9kns
 
 - z2200 f145525 cHB9FRV r47 s59 # mathias in aarau // initial contact on repeater f145175/775 Laegern, then simplex qso
