@@ -5,6 +5,10 @@ _(most recent data on top)_
 
 ## 2016
 
+### 2016-11-19 hb9kns/p qth muerren
+
+- z1410 f145100/700 cHB9FGO/m adrian
+
 ### 2016-10-06 ik2/hb9kns/p
 
 - z1150 f14057 cG0KAL r315qsb s599qsb # clive in isle of axholme // strong qsb, lost contact
