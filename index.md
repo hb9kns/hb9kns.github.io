@@ -1,8 +1,9 @@
 # HB9KNS
 
 This is my personal [Github Page]( https://pages.github.com );
-also have a look at my [main web presence]( http://yargo.sdf.org ) and
-at my [Github repositories]( https://github.com/hb9kns )!
+also have a look at my [main web presence]( http://yargo.sdf.org ) and at my
+[Github]( https://github.com/hb9kns ) and
+[Gitbooks]( https://hb9kns.gitbooks.io ) repositories!
 
 ---
 
@@ -22,4 +23,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ---
 
-_(2016 HB9KNS)_
+_(2016 HB9KNS/Y.Bonetti)_
