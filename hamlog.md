@@ -3,6 +3,12 @@
 _zUTC fFREQ/kHz mMODE cCALL rRST/received sRST/sent # remarks_
 _(most recent data on top)_
 
+## 2017
+
+### 2017-04-12 ik2/hb9kns/p
+
+- z1559 f14034 mCW cHB20MDC r5nn s5nn # qsb not reported due to fast split operation
+
 ## 2016
 
 ### 2016-11-19 hb9kns/p qth muerren
