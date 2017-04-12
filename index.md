@@ -18,6 +18,8 @@ also have a look at my [main web presence][sdf], as well as my
 [Gitlab]( https://gitlab.com/yargo ), [Github][] and
 [Gitbooks]( https://hb9kns.gitbooks.io ) repositories!
 
+_There may also be some non-private but still personal things related to amateur radio, so don't be astonished if not everything makes sense to you._
+
 ### Contact
 
 _Addresses may change anytime, if they are spammed!_
