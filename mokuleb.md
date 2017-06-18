@@ -5,7 +5,7 @@
 + E L N O S Y
 + A D R T
 + F H P = +
-- C G I K
++ C G I K
 - J M V /
 - B Q U ?
 - W X Z 0
@@ -15,4 +15,4 @@
 
 ---
 
-_17-4-12_
+_17-6-18_
