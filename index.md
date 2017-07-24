@@ -48,7 +48,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ---
 
-_(2017-Aug, HB9KNS/Y.Bonetti)_
+_(2017-Jul, HB9KNS)_
 
 [sdf]: http://yargo.andropov.org "SDF/Freeshell homepage"
 [Github]: https://github.com/hb9kns "Github account"
