@@ -11,6 +11,16 @@ _The logbook remains under copyright, i.e the CC license valid elsewhere does no
 
 ---
 
+## non-amateur radio related stuff
+
+I may store here also some information about other interesting services.
+
+*No warranty, use at your own risk, and all the other common legal stuff...*
+
+- [maritime/nautical]( nautical )
+
+---
+
 ## About
 
 This is my personal [Github Page]( https://pages.github.com );
@@ -38,7 +48,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ---
 
-_(2017-Jan, HB9KNS/Y.Bonetti)_
+_(2017-Aug, HB9KNS/Y.Bonetti)_
 
 [sdf]: http://yargo.andropov.org "SDF/Freeshell homepage"
 [Github]: https://github.com/hb9kns "Github account"
