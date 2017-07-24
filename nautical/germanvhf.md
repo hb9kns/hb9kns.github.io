@@ -6,17 +6,23 @@
 
 currently operated by [DP07]( http://www.dp07.com ) radio services
 
-- Borkum ch.61
-- Accumersiel ch.28
-- Elbe-Weser ch.24
-- Nordfriesland ch.26
-- Bremen ch.25
-- Hamburg ch.83
+- Borkum ch.61 (156.075/160.675 MHz)
+- Accumersiel ch.28 (157.400/162.000 MHz)
+- Elbe-Weser ch.24 (157.200/161.800 MHz)
+- Nordfriesland ch.26 (157.300/161.900 MHz)
+- Bremen ch.25 (157.250/161.850 MHz)
+- Hamburg ch.83 (157.175/161.775 MHz)
+
+*(ship/shore transmit frequencies)*
 
 ### weather
 
-weather transmissions by DP07 stations (cf above)
+- weather transmissions by DP07 stations (cf above)
 at 0745/0945/1245/1645/1945 (probably local time),
 with extended previsions at 0945
 
-Deutsche Bucht previsions at xx00 (hourly) on ch.80
+- Deutsche Bucht previsions at xx00 (hourly) on ch.80
+
+---
+
+_(2017-Jul, HB9KNS)_
