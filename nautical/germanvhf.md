@@ -21,7 +21,7 @@ currently operated by [DP07]( http://www.dp07.com ) radio services
 at 0745/0945/1245/1645/1945 (probably local time),
 with extended previsions at 0945
 
-- Deutsche Bucht previsions at xx00 (hourly) on ch.80
+- Deutsche Bucht previsions at xx00 (hourly) on ch.80 (161.625 MHz)
 
 ---
 
