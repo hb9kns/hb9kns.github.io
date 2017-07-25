@@ -22,7 +22,7 @@ or simplex freq only
 - 67 156.375
 - 08 156.400 *ship-ship only*
 - 68 156.425
-- 09 156.450 156.450
+- 09 156.450
 - 69 156.475
 - 10 156.500
 - **70 156.525 DSC distress and calling, digital only**
