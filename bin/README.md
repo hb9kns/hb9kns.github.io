@@ -18,4 +18,8 @@ commited to the repository for publication on github.io.
 
 ---
 
+Programs in this directory are subject to the [BSD license]( LICENSE.txt ) except for `mrkdwn.pl` which has its own copyright conditions in the source code.
+
+---
+
 _(2017 YCB)_
