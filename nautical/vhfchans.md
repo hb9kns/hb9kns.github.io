@@ -25,7 +25,7 @@ or simplex freq only
 - 09 : 156.450 *in some areas police and pilot use*
 - 69 : 156.475 *in some areas recreational ship-ship*
 - 10 : 156.500 *in some areas commercial fishing boats*
-- **70 156.525 DSC distress and calling, digital only**
+- **70 : 156.525 DSC distress and calling, digital only**
 - 11 : 156.550
 - 71 : 156.575
 - 12 : 156.600
@@ -36,19 +36,19 @@ or simplex freq only
 - 74 : 156.725
 - 15 : 156.750 *on board. 1 W*
 - 75 : 156.775 *navigational only*
-- **16 156.800 distress and calling**
+- **16 : 156.800 distress and calling**
 - 76 : 156.825 *navigational only*
 - 17 : 156.850 *on board. 1 W*
 - 77 : 156.875 *ship-ship only*
 - 18 : 156.900 161.500
-- (10)78 156.925/161.525
-- 2078 161.525
-- (10)19 156.950
-- 2019 161.550
-- (10)79 156.975/161.575
-- 2079 161.575
-- (10)20 157.00
-- 2020 161.600
+- (10)78 : 156.925/161.525
+- 2078 : 161.525
+- (10)19 : 156.950
+- 2019 : 161.550
+- (10)79 : 156.975/161.575
+- 2079 : 161.575
+- (10)20 : 157.00
+- 2020 : 161.600
 - 80 : 157.025/161.625
 - 21 : 157.050/161.650
 - 81 : 157.075/161.675
