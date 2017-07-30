@@ -16,22 +16,22 @@ or simplex freq only
 - 64 156.225/160.825
 - 05 156.250/160.850
 - 65 156.275/160.875
-- 06 156.300 *ship-ship only*
+- 06 156.300 *ship-ship only, in some areas for coordination SAR*
 - 66 156.325 160.925
 - 07 156.350 160.950
-- 67 156.375
-- 08 156.400 *ship-ship only*
+- 67 156.375 *in some areas digging ships*
+- 08 156.400 *ship-ship only, in some areas passenger and freight ships*
 - 68 156.425
-- 09 156.450
-- 69 156.475
-- 10 156.500
+- 09 156.450 *in some areas police and pilot use*
+- 69 156.475 *in some areas recreational ship-ship*
+- 10 156.500 *in some areas commercial fishing boats*
 - **70 156.525 DSC distress and calling, digital only**
 - 11 156.550
 - 71 156.575
 - 12 156.600
-- 72 156.625
-- 13 156.650
-- 73 156.675
+- 72 156.625 *in some areas recreational ship-ship*
+- 13 156.650 *in some areas official use*
+- 73 156.675 *in some areas trailers*
 - 14 156.700
 - 74 156.725
 - 15 156.750 *on board. 1 W*
@@ -41,11 +41,11 @@ or simplex freq only
 - 17 156.850 *on board. 1 W*
 - 77 156.875 *ship-ship only*
 - 18 156.900 161.500
-- (10)78 156.925
+- (10)78 156.925/161.525
 - 2078 161.525
 - (10)19 156.950
 - 2019 161.550
-- (10)79 156.975
+- (10)79 156.975/161.575
 - 2079 161.575
 - (10)20 157.00
 - 2020 161.600
@@ -66,3 +66,7 @@ or simplex freq only
 - 87 157.375
 - 28 157.400/162.000
 - 88 157.425
+
+---
+
+_(2017-Jul HB9KNS)_
