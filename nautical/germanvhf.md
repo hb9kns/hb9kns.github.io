@@ -4,7 +4,7 @@
 
 ### DP07 Shore stations
 
-currently operated by [DP07]( http://www.dp07.com ) radio services
+operated by [DP07]( http://www.dp07.com ) radio services
 
 - Borkum ch.61 (156.075/160.675 MHz)
 - Accumersiel ch.28 (157.400/162.000 MHz)

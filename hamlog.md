@@ -5,6 +5,10 @@ _(most recent data on top)_
 
 ## 2017
 
+### 2017-07-31 dl/hb9kns/p
+
+- z14 f431150/438750 mFM cDO2BM r49 s49 # Andre nr Leer
+
 ### 2017-04-12 ik2/hb9kns/p
 
 - z1559 f14034 mCW cHB20MDC r5nn s5nn # qsb not reported due to fast split operation
