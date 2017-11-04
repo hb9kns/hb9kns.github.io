@@ -5,6 +5,11 @@ _(most recent data on top)_
 
 ## 2017
 
+### 2017-11-04 ik2/hb9kns/p
+
+- z1600 f10122 mCW cHB9AJM r589 s599 # Ivo nr Brissago 900 m asl, 100W Yagi hi
+- z1545 f10121 mCW cG4LNA r579 s579 # Paul nr London, K3 100W, cloudy 10c
+
 ### 2017-07-31 dl/hb9kns/p
 
 - z14 f431150/438750 mFM cDO2BM r49 s49 # Andre nr Leer
