@@ -35,10 +35,9 @@ _There may also be some non-private but still personal things related to amateur
 _Addresses may change anytime, if they are spammed!_
 
 - E-Mail: [pypywrdyvh@snkmail.com]( mailto:pypywrdyvh@snkmail.com )
-- [Bitmessage]( https://bitmessage.org ): BM-2cVbXzaS1tWSJB1bfbQercmTqDVgq1JQCh
 - via [Github][]
 
-Please see my [main site][sdf] for more and detailed information.
+Please see my [main site][sdf] for more information.
 
 ---
 
@@ -48,7 +47,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ---
 
-_(2017-Jul, HB9KNS)_
+_(2018-May, HB9KNS)_
 
 [sdf]: http://yargo.andropov.org "SDF/Freeshell homepage"
 [Github]: https://github.com/hb9kns "Github account"
