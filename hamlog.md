@@ -3,6 +3,12 @@
 _zUTC fFREQ/kHz mMODE cCALL rRST/received sRST/sent # remarks_
 _(most recent data on top)_
 
+## 2018
+
+### 2018-05-11 ik2/hb9kns/p
+
+- z1159 f10112 mCW cF5IUZ r599 s589 # Moise (?) 5w dipol
+
 ## 2017
 
 ### 2017-11-04 ik2/hb9kns/p
