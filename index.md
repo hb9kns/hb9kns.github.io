@@ -1,13 +1,10 @@
 # HB9KNS
 
-## Ham radio logbook
+## amateur radio stuff
 
-You can read my amateur radio logbook in [HTML]( hamlog.html )
-or [Markdown/text]( hamlog.md ) format.
-
-(The HTML may be out of date for up to a day, as I cannot generate it from all mobile devices. The Markdown version always will be up to date.)
-
-_The logbook remains under copyright, i.e the CC license valid elsewhere does not apply here!_
+- logbook in [Markdown/text]( hamlog.md )/[HTML]( hamlog.html ) format;
+  *NB: remains under copyright, i.e CC license does not apply here!*
+- favorite repeaters list in [Markdown]( relais.md )/[HTML]( relais.html ) format
 
 ---
 
@@ -24,15 +21,15 @@ I may store here also some information about other interesting services.
 ## About
 
 This is my personal [Github Page]( https://pages.github.com );
-also have a look at my [main web presence][sdf], as well as my
-[Gitlab]( https://gitlab.com/yargo ), [Github][] and
+also have a look at my [main web][sdfw] and [gopher][sdfg] sites
+as well as my [Gitlab]( https://gitlab.com/yargo ), [Github][] and
 [Gitbooks]( https://hb9kns.gitbooks.io ) repositories!
 
-_There may also be some non-private but still personal things related to amateur radio, so don't be astonished if not everything makes sense to you._
+*There may also be some non-private but still personal things related to amateur radio, so don't be astonished if not everything makes sense to you.*
 
 ### Contact
 
-_Addresses may change anytime, if they are spammed!_
+*Addresses may change anytime, if they are spammed!*
 
 - E-Mail: [pypywrdyvh@snkmail.com]( mailto:pypywrdyvh@snkmail.com )
 - via [Github][]
@@ -41,13 +38,14 @@ Please see my [main site][sdf] for more information.
 
 ---
 
+*HTML files may be out of date for a day, as I cannot generate them from all mobile devices.*
+
 ![Creative Commons License]( https://i.creativecommons.org/l/by-sa/4.0/80x15.png )
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License]( http://creativecommons.org/licenses/by-sa/4.0/ ).
 
----
+*(2018-June, HB9KNS)*
 
-_(2018-May, HB9KNS)_
-
-[sdf]: http://yargo.andropov.org "SDF/Freeshell homepage"
+[sdfw]: http://yargo.andropov.org "SDF/Freeshell homepage"
+[sdfg]: gopher://sdf.org/1/users/yargo "SDF/Freeshell gopherhole"
 [Github]: https://github.com/hb9kns "Github account"
