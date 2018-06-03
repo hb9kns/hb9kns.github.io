@@ -34,8 +34,6 @@ as well as my [Gitlab]( https://gitlab.com/yargo ), [Github][] and
 - E-Mail: [pypywrdyvh@snkmail.com]( mailto:pypywrdyvh@snkmail.com )
 - via [Github][]
 
-Please see my [main site][sdf] for more information.
-
 ---
 
 *HTML files may be out of date for a day, as I cannot generate them from all mobile devices.*
