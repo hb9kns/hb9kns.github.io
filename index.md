@@ -5,6 +5,7 @@
 - logbook in [Markdown/text]( hamlog.md )/[HTML]( hamlog.html ) format;
   *NB: remains under copyright, i.e CC license does not apply here!*
 - favorite repeaters list in [Markdown]( relais.md )/[HTML]( relais.html ) format
+- my [interests and beliefs]( manifest.html ) concerning amateur radio
 
 ---
 
