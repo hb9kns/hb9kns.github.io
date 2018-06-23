@@ -5,6 +5,10 @@ _(most recent data on top)_
 
 ## 2018
 
+### 2018-06-23
+
+- z1710 f145975 mFM cDC6DD r24 # only heard vy weak with QRN, via satellite? on handheld
+
 ### 2018-05-11 ik2/hb9kns/p
 
 - z1159 f10112 mCW cF5IUZ r599 s589 # Moise (?) 5w dipol
