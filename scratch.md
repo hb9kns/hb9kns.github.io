@@ -1,50 +1,51 @@
 # scratchpad: ideas, notes etc
 
-## CWTRX
+## Pjt CWTRX
 
 low-power portable (70cm) CW transceiver, for short range contacts
 
 ### general features
 
 - supply 5..12 V, optimized for 5 V (USB)
-- power save mode with variable squelch (trimmer? electronic?)
+- power save mode with electronic squelch
 - beacon mode: call sign transmission unless squelch open, pause
+- 1 direct memory DM, 2 working memories A and Z, 2 shadow memories + and -; each memory contains freq, power and squelch levels
 
 ### RF section
 
 - at least 432000..432400 kHz, up to 438000 if possible
 - range limits selectable, valid for manual and automatic scans
 - antenna: socket / headphone cable / key cable
-- TX: 0.01, 0.1 W, optional 0.5 or 2 W
-- RX: direct conversion (electronic 100 Hz steps or less)
+- TX: 0.05, 0.5, 5 W; 0.5 default
+- RX: direct conversion (electronic 0.1 kHz steps or less)
 
 ### user interface
 
 - mechanical off/volume knob
 - 8 buttons: MENU, ESC, ENTER, +, -, A, Z, (RESET)
-- output by side tone in Morse code, default speed 20 wpm
+- output by side tone in Morse code, default speed 20 WpM
 - LED optional (blinking with side tone)
 - 2 headphone jacks, optionally one with deactivated loudspeaker (low sound quality ok)
-- direct keying, elbug optional (perhaps selected by plug type)
+- direct keying, elbug optional (selected by plug type?)
 
-#### button functions outside of settings
+#### button functions during normal operation (not settings menu)
 
 button press generates side tone, higher pitch when long press detected
 
-- MENU: settings (short) / default store (long)
-- ESC: status report (short) / default recall (long)
+- MENU: settings (short) / direct (DM) store (long)
+- ESC: status report (short) / direct (DM) recall (long)
 - ENTER: transmit (short or long)
 - +, -: freq change (increasing step size when long press, indicated by increasing side tone pitch) with reporting of changed digits in case of increased step size
-- A, Z: memory recall (short) / memory store (long)
+- A, Z: working memory recall (short) / store (long)
 - (RESET): hidden button for factory defaults (long)
 
 status report: RX/TX freq (abbreviated inside range limits), battery level
 
-#### settings
+#### settings menu
 
 - while idle in settings, short beep every 2 sec
 
-##### buttons
+##### button functions in settings menu
 
 - MENU: tell current item (short) / save and exit (long)
 - ESC: leave current menu (short) / abandon and exit (long)
@@ -53,10 +54,15 @@ status report: RX/TX freq (abbreviated inside range limits), battery level
 - A: yes/set/all/max.value
 - Z: no/clear/zero/min.value
 
-##### items
+##### settings menu items
 
 - power level
 - squelch level
-- receive offset (active after transmission, always zero during scanning)
+- semiduplex: TX using A/Z memory, notified by chirping sidetone, reset with ESC from this item or long ESC (DM recall) during normal operation
+- switch direct memory (DM) and memory A/Z/+/- (shadow memories + and - only accessible this way), new DM freq reported with side tone
+- report all memory contents
+- receive offset (active after transmission and memory recalls, zero during scanning): A/Z=1/0 kHz
+- beacon text, enter as Morse code: A/Z=dash/dot, +/-=enter/delete character, MENU/ESC=save/abandon
+- beacon and side tone speed/WpM
 
 ---
