@@ -6,6 +6,7 @@
   *NB: remains under copyright, i.e CC license does not apply here!*
 - favorite repeaters list in [Markdown]( relais.md )/[HTML]( relais.html ) format
 - my [interests and beliefs]( manifest.html ) concerning amateur radio
+- [CWONDR]( https://github.com/hb9kns/cwondr ): dreaming of a pocket-size 70 cm CW transceiver for short range chatting
 
 ---
 
