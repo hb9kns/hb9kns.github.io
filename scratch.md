@@ -57,13 +57,13 @@ status report: RX/TX freq (abbreviated inside range limits), battery level
 
 ##### settings menu items
 
-- power level
-- squelch level
-- semiduplex: TX using A/Z memory, notified by chirping sidetone, reset with ESC from this item or long ESC (DM recall) during normal operation
-- switch direct memory (DM) and memory A/Z/+/- (shadow memories + and - only accessible this way), new DM freq reported with side tone
-- report all memory contents
-- receive offset (active after transmission and memory recalls, zero during scanning): A/Z=1/0 kHz
-- beacon text, enter as Morse code: A/Z=dash/dot, +/-=enter/delete character, MENU/ESC=save/abandon
-- beacon and side tone speed/WpM
+1. power level
+2. squelch level
+3. complete status and memory report
+4. semiduplex: TX using A/Z memory, notified by chirping sidetone, reset with ESC from this item or long ESC (DM recall) during normal operation
+5. switch direct memory (DM) and memory A/Z/+/- (shadow memories + and - only accessible this way), new DM freq reported with side tone
+6. receive offset (active after transmission and memory recalls, zero during scanning): reported by side tone beep, change by +/-, A/Z=1/0 kHz
+7. beacon text, enter as Morse code with up to 7 dots or dashes per character: A/Z=dash/dot, +/-=enter/delete character, MENU/ESC=save/abandon
+8. beacon and side tone speed in WpM (PARIS norm)
 
 ---
