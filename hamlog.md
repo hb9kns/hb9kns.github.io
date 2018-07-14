@@ -5,9 +5,13 @@ _(most recent data on top)_
 
 ## 2018
 
+### 2018-07-14 ik2/hb9kns/p
+
+- z1253 f10121 mCW cTM85TF r599 s599 # vy brief
+
 ### 2018-06-23
 
-- z1710 f145975 mFM cDC6DD r24 # only heard vy weak with QRN, via satellite? on handheld
+- z1710 f145975 mFM cDC6DD r24 # only heard, vy weak with QRN, probably AO-7, on handheld
 
 ### 2018-05-11 ik2/hb9kns/p
 
