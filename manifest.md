@@ -2,14 +2,15 @@
 
 ## How I understand the goals
 
-Radio amateurs practice communication by electromagnetic interaction for
+Radio amateurs practice communication by electromagnetic interaction to
 
-- their personal pleasure,
-- learning technical skills and knowledge about electronics and propagation,
-- improving operational skills concerning organization and procedures,
-- facilitating mutual understanding of their human fellows near and far.
+- have fun,
+- learn technical skills and knowledge about electronics and propagation,
+- improve operational skills concerning organization and procedures,
+- take care of the commons of the electromagnetic spectrum,
+- support their human fellows near and far in mutual understanding.
 
-## What I like in amateur radio
+## What I like most in amateur radio
 
 - Morse code transmission with simple and low-power equipment
 - analog modes where I am as close as possible to the radio waves
@@ -17,4 +18,4 @@ Radio amateurs practice communication by electromagnetic interaction for
 
 ---
 
-*2018-June / HB9KNS*
+*2018-July / HB9KNS*
