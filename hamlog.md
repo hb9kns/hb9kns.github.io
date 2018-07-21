@@ -5,6 +5,10 @@ _(most recent data on top)_
 
 ## 2018
 
+### 2018-07-21 ik2/hb9kns/p
+
+- z1125 f14060 mCW cDM3TN/qrp r559/qsb s539/qsb/qrn # thomas in suhl, yaesu ft857 5w g5rv, vy strong qsb
+
 ### 2018-07-14 ik2/hb9kns/p
 
 - z1253 f10121 mCW cTM85TF r599 s599 # vy brief
