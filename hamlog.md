@@ -5,6 +5,14 @@ _(most recent data on top)_
 
 ## 2018
 
+### 2018-07-29 hb9kns/p nr Urnaesch
+
+- z0755 f431150/438750 mFM cHB9TOI s49 # (via Saentis repeater) Michael? strong humming, heard same humming and voice some hours later with maybe another callsign, therefore unsure; was hiking
+
+### 2018-07-27 hb9kns/p nr Rorschach
+
+- z1915 f431275/438875 mFM cDK1TEO # (via Pfaender repeater)
+
 ### 2018-07-21 ik2/hb9kns/p
 
 - z1125 f14060 mCW cDM3TN/qrp r559/qsb s539/qsb/qrn # thomas in suhl, yaesu ft857 5w g5rv, vy strong qsb
