@@ -5,6 +5,10 @@ _(most recent data on top)_
 
 ## 2018
 
+### 2018-08-06 hb9kns/p nr Gersau
+
+- z1810 f431350/438950 mFM cHB9AG r59 s59 # Aargauer-Runde, controller HB9EVF Tom
+
 ### 2018-07-29 hb9kns/p nr Urnaesch
 
 - z0755 f431150/438750 mFM cHB9TOI s49 # (via Saentis repeater) Michael? strong humming, heard same humming and voice some hours later with maybe another callsign, therefore unsure; was hiking
@@ -29,6 +33,8 @@ _(most recent data on top)_
 
 - z1159 f10112 mCW cF5IUZ r599 s589 # Moise (?) 5w dipol
 
+---
+
 ## 2017
 
 ### 2017-11-04 ik2/hb9kns/p
@@ -43,6 +49,8 @@ _(most recent data on top)_
 ### 2017-04-12 ik2/hb9kns/p
 
 - z1559 f14034 mCW cHB20MDC r5nn s5nn # qsb not reported due to fast split operation
+
+---
 
 ## 2016
 
@@ -131,4 +139,4 @@ _(most recent data on top)_
 
 ---
 
-_(copyright 2014,2016 Yargo Bonetti)_
+_(copyright 2014,2018 HB9KNS)_
