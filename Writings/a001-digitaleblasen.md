@@ -1,6 +1,8 @@
 # Den Kühen sind die Placken auf der Allmend egal
 
-*oder: Bauern, plaudert miteinander beim Spaziergang!*
+*oder: Bauern, redet miteinander!*
+
+## Zusammenfassung
 
 Im laufenden Streit in der Amateurfunkwelt
 (Beitrag von [NT0Z][djtdar] sowie Auszug von HB9BBD im [HBradio 3/2018][HBr183] ab Seite 14)
@@ -14,27 +16,47 @@ Dies führt zu "Wahrnehmungsblasen" (reception bubbles) vergleichbar zu jenen be
 und schliesslich zur Verwüstung der Amateurfunkbänder, unserer "elektromagnetischen Allmend",
 einer weiteren Form von Umweltverschmutzung vergleichbar zum Problem der Lichtverschmutzung. ::ref::
 
-Wir müssen gegensteuern, nicht indem wir den Zugang zu den Bändern immer mehr vereinfachen
-durch verringerte Lizenzanforderungen, sondern durch Bewusstmachen des Reichtums, der auf
-jene wartet, die sich die Finger schmutzig machen möchten.
+Gegensteuern werden wir nicht, indem wir den Zugang zu den Bändern immer mehr vereinfachen
+durch verringerte Lizenzanforderungen, sondern indem wir zeigen, welcher Reichtum auf
+jene wartet, die bereit sind, sich die "Finger und Ohren schmutzig zu machen".
 
 ---
 
-[FT8][] , [WSPR][] und ihre Vorgängerverfahren haben explosive Verbreitung gefunden ::ref::
-dank ihrer Eignung für automatisch erstellte Verbindungen auch bei schwachen und überrauschten Signalen.
+[FT8][] , [WSPR][] und einige Vorgängerverfahren haben geradezu explosive Verbreitung gefunden ::ref::
+dank ihrer Eignung für automatisch erstellte Verbindungen auch bei schwachen und verrauschten Signalen.
 Dies ist einerseits ein Segen für jene Funkamateure, die unter schlechten Bedingungen DX machen möchten
 (DL1AMQ im [Funkamateur][] 5/18 ab Seite 456, sowie HB9FXL im [HBradio 3/2018][HBr183] ab Seite 19),
-andererseits ein grosser Fluch für uns alle:
-Es führt dazu, dass immer mehr "Roboter" auf den Bändern aktiv sind, dh Stationen, die nur das Minimum
-einer automatisch aufgebauten Verbindung ausführen, um rasch möglichst viele QSOs abzuarbeiten.
+andererseits ein grosser Fluch hinsichtlich zukünftiger Bandbelegung und Störungen.
 
-- Störfestigkeiten, zB "Dans l'univers des signaux" von HB9FXL in [hbr183][] p.19, Ausblenden von QRM
+Es führt zum einen dazu, dass immer mehr "Roboter" auf den Bändern aktiv sind, dh Stationen,
+die nur das Minimum einer automatisch aufgebauten Verbindung ausführen,
+um rasch möglichst viele QSOs abzuarbeiten.
+Dies könnte der ["Todesstoss"][djtdar] für verschiedene Wettbewerbe (contests, DX roll etc) sein.
+
+Schlimmer ist jedoch die Gefahr, dass immer weniger Amateure "human" arbeiten, womit Verfahren
+gemeint seien, deren Signalverarbeitung ("Intelligenz") grösstenteils durch Menschen erfolgen;
+dies sind zum einen analoge Verfahren zur Sprach- und Bildübertragung, zum anderen
+Morsetelegraphie und jedes andere digitale Verfahren, welches zum unmittelbaren Empfang
+durch den Menschen bestimmt sind.
+
+Denn nur wer "human" Amateurfunk betreibt
+
+* kann die Qualität einer Verbindung umfassend beurteilen,
+* nimmt die grösstmögliche Vielfalt von Signalen auf den Bändern wahr und
+* empfindet Störungen tatsächlich als störend.
+
+Für eine Automatik hingegen liegt die einzige Bedeutung von Störungen in einer wertfreien
+Verringerung des Signal/Rausch-Wertes, was bei digitalen Verfahren dazu führt, dass eine Verbindung
+"geht oder nicht", wodurch sich Störungen nur noch indirekt in einem verringerten Durchsatz von
+Daten bemerkbar machen.
+
+
 - zusätzl b au Tonqualität digitaler Moden (C4FM/Fusion, D-Star, DMR)
 - Indifferenz/Fatalismus gegenüber Störnebel
 - el.magnet Spektrum ist Allmend (commons)
 - digitale Blasen: nur wahrnehmen, was interessiert/gefällt, alles Andere wird reduziert auf "es geht nicht"
 - Neues entdecken geht nur, wenn man Unerwartetes wahrnehmen kann
-- Projekte: Breitband-Störpeiler, Bewusstsein fördern für Allmend (vgl Lichtverschmutzung), Coherent CW, neue Moden zur direkten Wahrnehmung
+- Projekte: Breitband-Störpeiler (Kids!), Bewusstsein fördern für Allmend (vgl Lichtverschmutzung), Coherent CW, neue Moden zur direkten Wahrnehmung
 
 ---
 
