@@ -5,9 +5,13 @@ _(most recent data on top)_
 
 ## 2018
 
+### 2018-08-07 hb9kns/m nr Gersau in dinghy
+
+- z1550 f431275/438875 mFM cHB9THJ r59 s59 # (via Luzern repeater) Beat
+
 ### 2018-08-06 hb9kns/p nr Gersau
 
-- z1810 f431350/438950 mFM cHB9AG r59 s59 # Aargauer-Runde, controller HB9EVF Tom
+- z1810 f431350/438950 mFM cHB9AG r59 s59 # (via HB9AG repeater) Aargauer-Runde, controller HB9EVF Tom
 
 ### 2018-07-29 hb9kns/p nr Urnaesch
 
@@ -19,7 +23,7 @@ _(most recent data on top)_
 
 ### 2018-07-21 ik2/hb9kns/p
 
-- z1125 f14060 mCW cDM3TN/qrp r559/qsb s539/qsb/qrn # thomas in suhl, yaesu ft857 5w g5rv, vy strong qsb
+- z1125 f14060 mCW cDM3TN/qrp r559/qsb s539/qsb/qrn # Thomas in Suhl, yaesu ft857 5w g5rv, vy strong qsb
 
 ### 2018-07-14 ik2/hb9kns/p
 
@@ -56,28 +60,28 @@ _(most recent data on top)_
 
 ### 2016-11-19 hb9kns/p qth muerren
 
-- z1410 f145100/700 mFM cHB9FGO/m # adrian
+- z1410 f145100/700 mFM cHB9FGO/m # Adrian
 
 ### 2016-10-06 ik2/hb9kns/p
 
-- z1150 f14057 mCW cG0KAL r315qsb s599qsb # clive in isle of axholme // strong qsb, lost contact
+- z1150 f14057 mCW cG0KAL r315qsb s599qsb # Clive in Isle of Axholme // strong qsb, lost contact
 
 ### 2016-08-09 hb9kns
 
-- z2200 f145525 mFM cHB9FRV r47 s59 # mathias in aarau // initial contact on repeater f145175/775 Laegern, then simplex qso
+- z2200 f145525 mFM cHB9FRV r47 s59 # Mathias in Aarau // initial contact on repeater f145175/775 Laegern, then simplex qso
 
 ### 2016-07-31 hb9kns/p qth muerren
 
-- z1330 f145500 mFM cHB9SNU r59 s59 # peter in wengen // got fb rprt fr modulation, seems ok
-- z0940 f145100/700 mFM cHB9CAC r37 s59 # koni nr schaffhausen via schilthorn // got bad rprt, perhaps bad tx part on my VX-8?
+- z1330 f145500 mFM cHB9SNU r59 s59 # Peter in Wengen // got fb rprt fr modulation, seems ok
+- z0940 f145100/700 mFM cHB9CAC r37 s59 # Koni nr Schaffhausen via Schilthorn // got bad rprt, perhaps bad tx part on my VX-8?
 
 ### 2016-07-17 ik2/hb9kns/p
 
-- z1000 f7012 mCW cF6FLF r519qsb s599qsb # francis nr cannes, 50w dipole
+- z1000 f7012 mCW cF6FLF r519qsb s599qsb # Francis nr Cannes, 50w dipole
 
 ### 2016-03-26 ik2/hb9kns/p
 
-- z1230 f10134 mCW cIK2RMZ r339 s479 # martin nr varese "fial?" nr lago orta, ts530s 75w dipol
+- z1230 f10134 mCW cIK2RMZ r339 s479 # Martin nr Varese "fial?" nr Lago Orta, ts530s 75w dipol
 
 ---
 
@@ -103,7 +107,7 @@ _(most recent data on top)_
 
 ### 2015-07-26 _Rantum_
 
-- z1xxx f439125- mFM cDK8OL # stefan in westerland, via DB0LAR relais
+- z1xxx f439125- mFM cDK8OL # Stefan in Westerland, via DB0LAR relais
 
 ### 2015-07-24 _Hoernum_
 
@@ -111,7 +115,7 @@ _(most recent data on top)_
 
 ### 2015-03-07 ik2/hb9kns/p
 
-- z1005 f10112 mCW cF5QF r589 s599 # frank nr paris
+- z1005 f10112 mCW cF5QF r589 s599 # Frank nr Paris
 
 ---
 
@@ -119,7 +123,7 @@ _(most recent data on top)_
 
 ### 2014-10-06 dl/hb9kns/p _nr friedrichshafen_
 
-- 1310z 145500k hb9nbg/p r51 s43 _rene auf neuenkamm bei glarus fr sota_
+- 1310z 145500k hb9nbg/p r51 s43 _Rene auf Neuenkamm bei Glarus fr SOTA_
 
 ### 2014-08-15 ik2/hb9kns/p
 
@@ -127,7 +131,7 @@ _(most recent data on top)_
 
 ### 2014-08-03 ik2/hb9kns/p
 
-- 0935z 10115k ik0fnh r579 s599 _giuseppe roma 50w dopp.zepp rain 21c_
+- 0935z 10115k ik0fnh r579 s599 _Giuseppe in Roma 50w dopp.zepp rain 21c_
 
 ### 2014-04-06 ik2/hb9kns/p
 
