@@ -1,24 +1,23 @@
-# Den Kühen sind die Placken auf der Allmend egal
-
-*oder: Bauern, redet miteinander!*
+# Den Kühen sind die Placken auf der Allmend egal -- es braucht Bauern!
 
 ## Zusammenfassung
 
 Im laufenden Streit in der Amateurfunkwelt
-(Beitrag von [NT0Z][djtdar] sowie Auszug von HB9BBD im [HBradio 3/2018][HBr183] ab Seite 14)
 über störfeste, automatisierte Verfahren (FT8, JT65, WSPR, früher auch PSK31 etc)
 fehlt ein wichtiger Gesichtspunkt:
 digitale Verfahren blenden die analoge Realität aus und machen uns gleichgültig gegenüber Störungen
 und allem, was sonst auf den Bändern vor sich geht.
 
-Dies führt zu "Wahrnehmungsblasen" (reception bubbles) vergleichbar zu jenen bei intensiver Nutzung
-"neuer/sozialer" Medien ::ref::
-und schliesslich zur Verwüstung der Amateurfunkbänder, unserer "elektromagnetischen Allmend",
-einer weiteren Form von Umweltverschmutzung vergleichbar zum Problem der Lichtverschmutzung. ::ref::
+Dies stellt eine Form von Realitätsverlust ("Wahrnehmungsblasen") dar und trägt zur schleichenden Verwüstung
+der Amateurfunkbänder bei, einem Teil der "elektromagnetischen Allmend",
+welche weiteren Gefahren wie zB der Lichtverschmutzung ausgesetzt ist.
 
-Gegensteuern werden wir nicht, indem wir den Zugang zu den Bändern immer mehr vereinfachen
-durch verringerte Lizenzanforderungen, sondern indem wir zeigen, welcher Reichtum auf
-jene wartet, die bereit sind, sich die "Finger und Ohren schmutzig zu machen".
+Gegensteuern werden wir nicht, indem wir den Zugang zu den Bändern
+durch verringerte Lizenzanforderungen immer mehr vereinfachen,
+sondern indem wir Verständnis schaffen, dass der wahre Wert des
+elektromagnetischen Spektrums in den gebotenen Möglichkeiten liegt
+und nicht in der andauernd genutzten Bandbreite.
+Auch und nicht zuletzt in der Stille.
 
 ---
 
@@ -41,8 +40,8 @@ durch den Menschen bestimmt sind.
 
 Denn nur wer "human" Amateurfunk betreibt
 
-* kann die Qualität einer Verbindung umfassend beurteilen,
-* nimmt die grösstmögliche Vielfalt von Signalen auf den Bändern wahr und
+* kann die Qualität einer Verbindung umfassend beurteilen und Vorgänge wahrnehmen,
+* nimmt zusätzlich zur gewünschten Verbindung die grösstmögliche Vielfalt von Signalen auf den Bändern wahr und
 * empfindet Störungen tatsächlich als störend.
 
 Für eine Automatik hingegen liegt die einzige Bedeutung von Störungen in einer wertfreien
