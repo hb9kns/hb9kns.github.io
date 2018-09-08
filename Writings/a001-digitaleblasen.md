@@ -59,8 +59,8 @@ Daten bemerkbar machen.
 
 ---
 
-[FT8]: ft8.example.com "FT8"
-[WSPR]: wspr.example.com "WSPR"
-[djtdar]( http://ei5di.com/jt.html ) "Did Joe Taylor K1JT Destroy Amateur Radio? Kirk Kleinschmidt NT0Z, thespectrummonitor.com"
-[HBr183]( https://www.uska.ch/wp-content/uploads/2018/06/HBradio_18-03-873702.pdf ) "HBradio 3/2018, diverse Artikel"
-[Funkamateur]( http://www.funkamateur.de ) "FT8-DXpeditions-Modus, FUNKAMATEUR 5/18, 456"
+[FT8]: http://ft8.example.com "FT8"
+[WSPR]: http://wspr.example.com "WSPR"
+[djtdar]: http://ei5di.com/jt.html "Did Joe Taylor K1JT Destroy Amateur Radio? Kirk Kleinschmidt NT0Z, thespectrummonitor.com"
+[HBr183]: https://www.uska.ch/wp-content/uploads/2018/06/HBradio_18-03-873702.pdf "HBradio 3/2018, diverse Artikel"
+[Funkamateur]: http://www.funkamateur.de "FT8-DXpeditions-Modus, FUNKAMATEUR 5/18, 456"
