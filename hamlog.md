@@ -5,6 +5,10 @@ _(most recent data on top)_
 
 ## 2018
 
+### 2018-09-19 hb0/hb9kns/p nr Malbun
+
+- z1030 f431150/438750 mFM cHB9BUI/P r47 s47 # (via Saentis repeater) Urs nr Klausenpass
+
 ### 2018-08-07 hb9kns/m nr Gersau in dinghy
 
 - z1550 f431275/438875 mFM cHB9THJ r59 s59 # (via Luzern repeater) Beat
