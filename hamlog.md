@@ -5,6 +5,11 @@ _(most recent data on top)_
 
 ## 2018
 
+
+### 2018-11-25 ik2/hb9kns/p
+
+- z1035 f10123 mCW cG3MBN r559/qsb s579 # Brian nr Bath, 100w g5rv, cloudy 7c # tnx fer nice chat!
+
 ### 2018-09-19 hb0/hb9kns/p nr Malbun
 
 - z1030 f431150/438750 mFM cHB9BUI/P r47 s47 # (via Saentis repeater) Urs nr Klausenpass
