@@ -1,9 +1,13 @@
 !HB9KNS
-iThis is a clone of hb9kns.github.io fully accessible through gopher,	
-ialthough not yet nicely formatted. Most importantly, you can check my	
-0amateur radio log.	hamlog.md
 
-iUntil all is fully set up, please have a look at index.md and the raw directory:	
-i(2018-12-16 // HB9KNS)	
+iThis is a clone of hb9kns.github.io, accessible through gopher.	
 
-*
+iYou may have a look at my (mostly markdown formatted):	
+0* amateur radio log	hamlog.md
+0* favourite repeaters	relais.md
+0* amateur radio manifest	manifest.md
+1* notes about professional maritime radio services	nautical
+h* dream of a pocket-size 70 cm CW TRX	https://github.com/hb9kns/cwondr
+
+i2018-12-16 // HB9KNS	
+icontact: pypywrdyvh(at)snkmail.com
