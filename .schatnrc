@@ -1,0 +1,19 @@
+# configuration file for /usr/local/bin/schat
+# automatically generated Tue Dec 18 14:20:12 UTC 2018
+# *name-key-pairs must be separated by one SPC*
+# string printed before time-stamp:
+ftbeg [
+# string printed after time-stamp:
+ftend ]
+# string printed before nick:
+fnbeg <
+# string printed after nick:
+fnend >
+# string printed at end of line:
+flend 
+# flag for filtering control characters, must be yes or no
+filter yes
+# file with chat messages
+chat /var/local/share/schatfile.txt
+# file with chat enter/leave notifications
+bang /var/local/share/schatbang.txt
