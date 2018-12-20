@@ -10,7 +10,7 @@ fnbeg de
 # string printed after nick:
 fnend  =
 # string printed at end of line:
-flend +
+flend 	+
 # flag for filtering control characters, must be yes or no
 filter yes
 # file with chat messages
