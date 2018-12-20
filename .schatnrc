@@ -2,15 +2,15 @@
 # automatically generated Tue Dec 18 14:20:12 UTC 2018
 # *name-key-pairs must be separated by one SPC*
 # string printed before time-stamp:
-ftbeg [
+ftbeg =
 # string printed after time-stamp:
-ftend ]
+ftend =
 # string printed before nick:
-fnbeg <
+fnbeg de 
 # string printed after nick:
-fnend >
+fnend  =
 # string printed at end of line:
-flend 
+flend +
 # flag for filtering control characters, must be yes or no
 filter yes
 # file with chat messages
