@@ -1,6 +1,8 @@
 !HB9KNS
 
 iThis is a clone of hb9kns.github.io, accessible through gopher.	
+i It may become the main source, though, as I am trying
+i to get rid of centralized service providers.
 
 iYou may have a look at my (mostly markdown formatted):	
 0* amateur radio log	hamlog.md
@@ -9,6 +11,8 @@ iYou may have a look at my (mostly markdown formatted):
 1* notes about professional maritime radio services	nautical
 h* dream of a pocket-size 70 cm CW TRX	URL:https://github.com/hb9kns/cwondr
 i  (git://dome.circumlunar.space/~hb9kns/cwondr.git)	
+h* dream of an automated Morse broadcasting system	URL:https://github.com/hb9kns/ambros
+i  (git://dome.circumlunar.space/~hb9kns/ambros.git)	
 
-i2018-12-16 // HB9KNS	
+i2019-02-14 // HB9KNS	
 icontact: pypywrdyvh(at)snkmail.com	
