@@ -1,6 +1,10 @@
-# hb9kns.github.io
+# HB9KNS
 
-pages and source code for [hb9kns.github.io]( http://hb9kns.github.io ) page
+pages and source code for HB9KNS on
+
+- [dome.circumlunar.space]( gopher://dome.circumlunar.space/1/~hb9kns )
+- [tildegit.org]( https://tildegit.org/yargo/hb9kns )
+- [github.io]( http://hb9kns.github.io )
 
 ---
 

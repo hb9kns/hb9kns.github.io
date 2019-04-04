@@ -22,12 +22,13 @@ I may store here also some information about other interesting services.
 
 ## About
 
-This is my personal [Github Page]( https://pages.github.com );
-also have a look at my [main web][sdfw] and [gopher][sdfg] sites
-as well as my [Gitlab]( https://gitlab.com/yargo ), [Github][] and
-[Gitbooks]( https://hb9kns.gitbooks.io ) repositories!
+This page should be available as <https://hb9kns.github.io>
+and [on Dome][dome] and <https://tildegit.org/yargo/hb9kns>.
 
-*There may also be some non-private but still personal things related to amateur radio, so don't be astonished if not everything makes sense to you.*
+*You may also find here some non-private but still personal things related to amateur radio, so don't be astonished if not everything makes sense to you.*
+
+Also have a look at my [SDF web][sdfw] and [SDF gopher][sdfg] and [C.S gopher][csg]
+as well as my [Github][] and <https://tildegit.org/yargo> repositories!
 
 ### Contact
 
@@ -44,8 +45,11 @@ as well as my [Gitlab]( https://gitlab.com/yargo ), [Github][] and
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License]( http://creativecommons.org/licenses/by-sa/4.0/ ).
 
-*(2018-June, HB9KNS)*
+*(2019-April, HB9KNS)*
 
+[dome]: gopher://dome.circumlunar.space/1/~hb9kns "Dome gopherhole"
 [sdfw]: http://yargo.andropov.org "SDF/Freeshell homepage"
 [sdfg]: gopher://sdf.org/1/users/yargo "SDF/Freeshell gopherhole"
+[csg]: gopher://zaibatsu.circumlunar.space/1/~yargo "Circumlunar.Space gopherhole"
 [Github]: https://github.com/hb9kns "Github account"
+[tildegit]: https://tildegit.org/yargo "tildegit account"
