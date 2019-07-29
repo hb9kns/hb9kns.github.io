@@ -3,8 +3,19 @@
 _zUTC fFREQ/kHz mMODE cCALL rRST/received sRST/sent # remarks_
 _(most recent data on top)_
 
-## 2018
+## 2019
 
+### 2019-07-27 dl/hb9kns/p
+
+qth JN47ap, rig Baofeng UV-5R
+
+- z1750 f431050/438650 mFM cHB9/DK5WT/P r59 s59 # (via Uto repeater) Rolf nr Walensee
+- z1715 f431200/438800 mFM cHB9ESD/P r59 s59 # (via Pilatus repeater)
+- z1025 f431150/438750 mFM cHB9GNK/P r35 s47 # (via Saentis repeater) Erwin
+
+---
+
+## 2018
 
 ### 2018-11-25 ik2/hb9kns/p
 
