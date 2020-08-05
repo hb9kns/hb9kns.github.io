@@ -3,6 +3,16 @@
 _zUTC fFREQ/kHz mMODE cCALL rRST/received sRST/sent # remarks_
 _(most recent data on top)_
 
+## 2020
+
+### 2020-07-22 hb9kns/p
+
+qth Gitschenen, rig YAESU VX-7
+
+- z1055 mFM cMM3WED r59 s59 # (via Fronalpstock 10m/70cm repeater)
+
+---
+
 ## 2019
 
 ### 2019-07-27 dl/hb9kns/p
