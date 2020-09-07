@@ -5,13 +5,20 @@ _(most recent data on top)_
 
 ## 2020
 
+### 2020-09-07 dl/hb9kns/p
+
+qth Strittmatt, rig YAESU VX-8
+
+- z1802 f145100/145700 mFM cHB9FKD r47 s47 # (via Schilthorn repeater)
+- z0804 f431450/439050 mFM cHB9DSW r59 s59 # Walter in Ruedtligen (via Niesen repeater)
+
 ### 2020-09-06 dl/hb9kns/p
 
 qth Strittmatt, rig YAESU VX-8
 
-- z1840 f431200/438800 mFM cHB9EHO r59 s59 # Matthias nr Bern (via Pilatus repeater)
-- z1845 f145525 mFM cHB9ESD r57 s59 # Daniel in Ebikon
 - z1850 f145525 mFM cHB9EHO r13 s57 # QSP Matthias via Daniel
+- z1845 f145525 mFM cHB9ESD r57 s59 # Daniel in Ebikon
+- z1840 f431200/438800 mFM cHB9EHO r59 s59 # Matthias nr Bern (via Pilatus repeater)
 
 ### 2020-07-22 hb9kns/p
 
