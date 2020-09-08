@@ -5,6 +5,14 @@ _(most recent data on top)_
 
 ## 2020
 
+### 2020-09-08 dl/hb9kns/p
+
+qth Strittmatt, rig YAESU VX-8
+
+- z1905 f431050/438650 mFM cHB9UF r59 s59 # Uto-Runde (via Uetliberg repeater)
+- z1520 f431200/438800 mFM cHB3YHH r59 s59 # Stefano (via Pilatus repeater)
+- z1520 f431200/438800 mFM cHB3YHP r59 s59 # Daniel (via Pilatus repeater)
+
 ### 2020-09-07 dl/hb9kns/p
 
 qth Strittmatt, rig YAESU VX-8
