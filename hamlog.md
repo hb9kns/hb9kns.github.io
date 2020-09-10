@@ -5,6 +5,12 @@ _(most recent data on top)_
 
 ## 2020
 
+### 2020-09-10 dl/hb9kns/p
+
+qth Strittmatt, rig YAESU VX-8
+
+- z1230 f431225/438825 mFM cHB9FOO r47 s47 # Otto mit VX-7
+
 ### 2020-09-08 dl/hb9kns/p
 
 qth Strittmatt, rig YAESU VX-8
