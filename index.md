@@ -13,17 +13,18 @@
 ## non-amateur radio related stuff
 
 I may store here also some information about other interesting services.
+It should not be copyrighted, but if you find anything which should not be published, please contact me!
 
 *No warranty, use at your own risk, and all the other common legal stuff...*
 
-- [maritime/nautical]( nautical )
+- [maritime/aeronautical]( nautical )
 
 ---
 
 ## About
 
 This page should be available as <https://hb9kns.github.io>
-and [on Dome][dome] and <https://tildegit.org/yargo/hb9kns>.
+and as backups (maybe somewhat out of date) on [Dome (gopher protocol)][dome] and <https://tildegit.org/yargo/hb9kns>.
 
 *You may also find here some non-private but still personal things related to amateur radio, so don't be astonished if not everything makes sense to you.*
 
@@ -45,7 +46,7 @@ as well as my [Github][] and <https://tildegit.org/yargo> repositories!
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License]( http://creativecommons.org/licenses/by-sa/4.0/ ).
 
-*(2019-April, HB9KNS)*
+*(2020-September/HB9KNS)*
 
 [dome]: gopher://dome.circumlunar.space/1/~hb9kns "Dome gopherhole"
 [sdfw]: http://yargo.andropov.org "SDF/Freeshell homepage"
