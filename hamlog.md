@@ -5,6 +5,12 @@ _(most recent data on top)_
 
 ## 2020
 
+### 2020-10-25 hb9kns/p
+
+qth nr Schwarzenberg JN47ba/JN47ca, rig YAESU VX-8
+
+- z1220 f431350/438950 mFM cHB9FZA/P r59 s59 # via HB9AG, also heard direct s57
+
 ### 2020-09-10 dl/hb9kns/p
 
 qth Strittmatt, rig YAESU VX-8
