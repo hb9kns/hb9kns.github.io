@@ -3,6 +3,23 @@
 _zUTC fFREQ/kHz mMODE cCALL rRST/received sRST/sent # remarks_
 _(most recent data on top)_
 
+## 2021
+
+### 2021-07-13
+
+qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
+
+- z2005 f14043 mCW cYU3TA r599 s479/qsb/qrn # Tom
+- z1955 f14041 mCW cR2DKL r579 s499/qrn # Oleg nr Moscow, 100 W, quad, sunny 25c
+
+
+### 2021-06-27
+
+qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
+
+- z1705 f14036 mCW cR1TET r559 s579 # Evgeny nr Pestovo; my pwr 10 W
+- z1630 f14034 mCW cUA3AUP r569 s479 # Gene
+
 ## 2020
 
 ### 2020-10-25 hb9kns/p
@@ -209,4 +226,4 @@ qth JN47ap, rig Baofeng UV-5R
 
 ---
 
-_(copyright 2014,2018 HB9KNS)_
+_(copyright HB9KNS)_
