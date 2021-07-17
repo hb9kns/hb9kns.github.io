@@ -5,6 +5,14 @@ _(most recent data on top)_
 
 ## 2021
 
+### 2021-07-17
+
+qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
+
+- z2050 f14035 mCW cOH2EUZ r599/qsb s359/qsb # Mikko in Hyvinkää, 100 W, loop
+- z1930 f14027 mCW cF4HUW r599 s479 # Herve in Lorient
+- z1730 f10111 mCW cM0KTZ # QRM5, blind, CS SKED
+
 ### 2021-07-13
 
 qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
