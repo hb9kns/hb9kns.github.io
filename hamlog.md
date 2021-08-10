@@ -11,6 +11,12 @@ qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
 
 - z1955 f7025 mCW cDL4SG/P r329/qsb s459/qsb # Mike auf Amrum, 100 W, magloop in hotel, wind&rain
 
+### 2021-08-02
+
+qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
+
+- z1940 f7033 mCW cSF7YT r579 s579 # Sten in Ingelstad, ant multi dipole, pwr 90 W, IC7200
+
 ### 2021-07-17
 
 qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
