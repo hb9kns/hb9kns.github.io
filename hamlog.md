@@ -5,6 +5,12 @@ _(most recent data on top)_
 
 ## 2021
 
+### 2021-08-08
+
+qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
+
+- z1955 f7025 mCW cDL4SG/P r329/qsb s459/qsb # Mike auf Amrum, 100 W, magloop in hotel, wind&rain
+
 ### 2021-07-17
 
 qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
