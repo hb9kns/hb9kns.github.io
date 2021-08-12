@@ -5,6 +5,13 @@ _(most recent data on top)_
 
 ## 2021
 
+### 2021-08-12
+
+qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
+
+- z2012 f7026 mCW cIZ3NWT r579/qsb s559/qsb # Tiziano in Auronzo (lost due to QSB)
+- z2000 f7012 mCW cG4LNA r599 s579 # Paul nr London, Yaesu FTDX10, 100 W, cloudy 19 C
+
 ### 2021-08-08
 
 qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
