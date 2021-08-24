@@ -5,6 +5,12 @@ _(most recent data on top)_
 
 ## 2021
 
+### 2021-08-23
+
+qth Aarau, rig Alinco DX-70, ant InvV, pwr 80 W
+
+- z1940 f7034 mCW cON6DC/A r579 s459 # Moritz in Antwerpen
+
 ### 2021-08-12
 
 qth Aarau, rig Alinco DX-70, ant InvV, pwr 100 W
