@@ -5,6 +5,12 @@ _(most recent data on top)_
 
 ## 2021
 
+### 2021-08-24
+
+qth Aarau, rig Alinco DX-70, ant InvV, pwr 80 W
+
+- z1945 f7034 mCW cDK2EL r599 s599 # Rolf in Rennersdorf; 100 W, Dipol; wx clear, 12 C; called after my try for M0KTZ, did not hear them neither
+
 ### 2021-08-23
 
 qth Aarau, rig Alinco DX-70, ant InvV, pwr 80 W
