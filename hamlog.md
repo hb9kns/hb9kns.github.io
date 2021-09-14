@@ -5,6 +5,12 @@ _(most recent data on top)_
 
 ## 2021
 
+### 2021-09-05
+
+qth Aarau, rig Yaesu VX-8
+
+- z1715 f431350/438950 mFM cHB9ESD/M # (via HB9AG repeater) Daniel en route
+
 ### 2021-08-24
 
 qth Aarau, rig Alinco DX-70, ant InvV, pwr 80 W
