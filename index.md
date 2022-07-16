@@ -24,12 +24,12 @@ It should not be copyrighted, but if you find anything which should not be publi
 ## About
 
 This page should be available as <https://hb9kns.github.io>
-and as backups (maybe somewhat out of date) on [Dome (gopher protocol)][dome] and <https://tildegit.org/yargo/hb9kns>.
+and as backups (maybe somewhat out of date) on [Dome (gopher protocol)][dome] and <https://git.disroot.org/hb9kns/hb9kns>.
 
 *You may also find here some non-private but still personal things related to amateur radio, so don't be astonished if not everything makes sense to you.*
 
 Also have a look at my [SDF web][sdfw] and [SDF gopher][sdfg] and [C.S gopher][csg]
-as well as my [Github][] and <https://tildegit.org/yargo> repositories!
+as well as my [Github][] and <https://git.disroot.org/hb9kns/> repositories!
 
 ### Contact
 
