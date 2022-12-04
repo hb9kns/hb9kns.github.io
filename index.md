@@ -24,19 +24,19 @@ It should not be copyrighted, but if you find anything which should not be publi
 ## About
 
 This page should be available as <https://hb9kns.github.io>
-and as backups (maybe somewhat out of date) on [Dome (gopher protocol)][dome] and <https://git.disroot.org/hb9kns/hb9kns>.
+and on [Dome (gopher protocol)][dome] and (maybe out of date) <https://git.disroot.org/hb9kns/hb9kns>.
 
 *You may also find here some non-private but still personal things related to amateur radio, so don't be astonished if not everything makes sense to you.*
 
 Also have a look at my [SDF web][sdfw] and [SDF gopher][sdfg] and [C.S gopher][csg]
-as well as my [Github][] and <https://git.disroot.org/hb9kns/> repositories!
+repositories!
 
 ### Contact
 
 *Addresses may change anytime, if they are spammed!*
 
 - E-Mail: [pypywrdyvh@snkmail.com]( mailto:pypywrdyvh@snkmail.com )
-- via [Github][]
+- mastodon: [@hb9kns@mastodon.radio]( https://mastodon.radio/@hb9kns )
 
 ---
 
@@ -46,11 +46,9 @@ as well as my [Github][] and <https://git.disroot.org/hb9kns/> repositories!
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License]( http://creativecommons.org/licenses/by-sa/4.0/ ).
 
-*(2020-September/HB9KNS)*
+*(2022-12-04/HB9KNS)*
 
 [dome]: gopher://dome.circumlunar.space/1/~hb9kns "Dome gopherhole"
 [sdfw]: http://yargo.andropov.org "SDF/Freeshell homepage"
 [sdfg]: gopher://sdf.org/1/users/yargo "SDF/Freeshell gopherhole"
 [csg]: gopher://zaibatsu.circumlunar.space/1/~yargo "Circumlunar.Space gopherhole"
-[Github]: https://github.com/hb9kns "Github account"
-[tildegit]: https://tildegit.org/yargo "tildegit account"
